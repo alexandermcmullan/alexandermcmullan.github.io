@@ -12,9 +12,9 @@ html {
 
 // Custom horizontal rules
 hr.divider {
-  max-width: 3.25rem;
+  max-width: 30%; //3.25rem;
   border-width: 0.2rem;
-  border-color: $primary;
+  border-color: $gold;
 }
 
 hr.light {
