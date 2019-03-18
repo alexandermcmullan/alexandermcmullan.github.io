@@ -2,4 +2,20 @@ plugins:
   - jekyll-seo-tag
 
 
-description: 'Test GitHub'
+url: alexandermcmullan.co.uk
+author: Robert McIlreavy - robertmcilreavy.com
+  twitter: mcilreavy
+
+title                    : "Alexander & McMullan - Accountants Ballymoney, Co Antrim"
+name                     : "Noel McMullan"
+description              : "An amazing website."
+url                      : "alexandermcmullan.co.uk"
+repository               : "https://github.com/alexandermcmullan/alexandermcmullan.github.io"
+logo                     : "/img/logo-two.png"
+
+# Site Author
+author:
+  name             : "Robert McIlreavy"
+  avatar           : "https://en.gravatar.com/rmcilreavy"
+  location         : "Ballymoney, Northern Ireland"
+  twitter          : "mcilreavy"
