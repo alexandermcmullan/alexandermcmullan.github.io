@@ -1,11 +1,6 @@
 plugins:
   - jekyll-seo-tag
 
-
-url: alexandermcmullan.co.uk
-author: Robert McIlreavy - robertmcilreavy.com
-  twitter: mcilreavy
-
 title                    : "Alexander & McMullan - Accountants Ballymoney, Co Antrim"
 name                     : "Noel McMullan"
 description              : "An amazing website."
