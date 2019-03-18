@@ -1,16 +1,16 @@
 plugins:
   - jekyll-seo-tag
 
-title                    : "Alexander & McMullan - Accountants Ballymoney, Co Antrim"
-name                     : "Noel McMullan"
-description              : "An amazing website."
-url                      : "alexandermcmullan.co.uk"
-repository               : "https://github.com/alexandermcmullan/alexandermcmullan.github.io"
-logo                     : "/img/logo-two.png"
+locale      : "en_GB"
+title       : "Alexander & McMullan - Accountants Ballymoney, Co Antrim"
+description : "An amazing website."
+url         : "https://alexandermcmullan.co.uk"
+repository  : "https://github.com/alexandermcmullan/alexandermcmullan.github.io"
+logo        : "/img/logo-two.png"
 
 # Site Author
 author:
-  name             : "Robert McIlreavy"
-  avatar           : "https://en.gravatar.com/rmcilreavy"
-  location         : "Ballymoney, Northern Ireland"
-  twitter          : "mcilreavy"
+  name      : "Robert McIlreavy"
+  avatar    : "https://secure.gravatar.com/avatar/922d8e543a349e8b943f833375020766"
+  location  : "Ballymoney, Northern Ireland"
+  twitter   : "mcilreavy"
