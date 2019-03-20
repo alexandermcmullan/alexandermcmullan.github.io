@@ -157,16 +157,16 @@
       <h2 class="mb-4">Login</h2>
       <hr class="divider my-4">
 
-      <form method="post" action="https://securedwebapp.com/login.asp?p=22874">
+      <form method="post" action="https://securedwebapp.com/login.asp?p=22874" class="needs-validation" novalidate>
 
         <div class="form-group">
           <label for="user">Username</label>
-          <input name="user" class="form-control" type="text" id="user" placeholder="e.g. email address">
+          <input name="user" class="form-control" type="text" id="user" placeholder="e.g. email address" required>
         </div>
 
         <div class="form-group">
           <label for="pass">Password</label>
-          <input name="pass" class="form-control" type="password" id="pass" />
+          <input name="pass" class="form-control" type="password" id="pass" required />
         </div>
         <button type="submit" class="btn btn-light btn-xl">Submit</button>
       </form>
