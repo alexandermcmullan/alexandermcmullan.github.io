@@ -3,7 +3,7 @@ plugins:
 
 locale      : "en_GB"
 title       : "Alexander & McMullan - Accountants Ballymoney, Co Antrim"
-description : "An amazing website."
+description : "Accountants based in Ballymoney, Co Antrim. We are dedicated to delivering a first class service to our clients."
 url         : "https://alexandermcmullan.co.uk"
 repository  : "https://github.com/alexandermcmullan/alexandermcmullan.github.io"
 logo        : "/img/logo-two.png"
