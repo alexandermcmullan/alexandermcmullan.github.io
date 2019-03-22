@@ -2,8 +2,8 @@ plugins:
   - jekyll-seo-tag
 
 locale      : "en_GB"
-title       : "Alexander & McMullan - Accountants Ballymoney, Co Antrim"
-description : "Accountants based in Ballymoney, Co Antrim. We are dedicated to delivering a first class service to our clients."
+title       : "Alexander & McMullan - Accountants Ballymoney"
+description : "We are dedicated to delivering a first class accountancy service to our clients based in Ballymoney, Co Antrim. "
 url         : "https://alexandermcmullan.co.uk"
 repository  : "https://github.com/alexandermcmullan/alexandermcmullan.github.io"
 logo        : "/img/logo-two.png"
