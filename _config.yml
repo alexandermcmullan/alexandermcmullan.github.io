@@ -4,9 +4,9 @@ plugins:
 title       : "Alexander & McMullan - Accountants Ballymoney"
 description : "Providing a Complete Comprehensive Accountancy, Taxation and Bookkeeping Service in Ballymoney"
 url         : "https://alexandermcmullan.co.uk"
-locale      : "en_GB"
+locale      : en_GB
 repository  : "https://github.com/alexandermcmullan/alexandermcmullan.github.io"
-logo        : "https://alexandermcmullan.co.uk/img/logo-one.png"
+logo        : /img/logo-one.png
 
 # Site Author
 author:
