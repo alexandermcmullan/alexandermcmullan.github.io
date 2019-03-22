@@ -3,10 +3,10 @@ plugins:
 
 locale      : "en_GB"
 title       : "Alexander & McMullan - Accountants Ballymoney"
-description : "We are dedicated to delivering a first class accountancy service to our clients based in Ballymoney, Co Antrim. "
+description : "Providing a Complete Comprehensive Accountancy, Taxation and Bookkeeping Service in Ballymoney"
 url         : "https://alexandermcmullan.co.uk"
 repository  : "https://github.com/alexandermcmullan/alexandermcmullan.github.io"
-logo        : "/img/logo-two.png"
+logo        : /img/logo-one.png
 
 # Site Author
 author:
@@ -14,7 +14,6 @@ author:
   avatar    : "https://secure.gravatar.com/avatar/922d8e543a349e8b943f833375020766"
   location  : "Ballymoney, Northern Ireland"
   twitter   : "mcilreavy"
-
 
 webmaster_verifications:
     google: cviTOYsUA1C9-eAbmjNRxnIUvTsTlRHgLuXXioNsO7A
